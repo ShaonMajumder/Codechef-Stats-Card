@@ -2,7 +2,11 @@
 
 Generate a clean, shareable SVG card for any public CodeChef profile. The project includes a Vite + React UI for previewing the card and a lightweight Express API that scrapes the CodeChef profile page and renders the SVG server-side.
 
----
+Live Link : https://codechef-stats-card.netlify.app/
+
+## Screenshots
+
+## ![Demo](screenshots/screencapture-codechef-stats-card-netlify-app-2025-12-29-21_53_40.png)
 
 ## Features
 
